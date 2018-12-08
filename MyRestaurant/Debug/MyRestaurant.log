@@ -1,0 +1,10 @@
+﻿  Queue.cpp
+c:\users\gabriel kuka\source\repos\myrestaurant\myrestaurant\queue.cpp(138): warning C4018: '<': signed/unsigned mismatch
+c:\users\gabriel kuka\source\repos\myrestaurant\myrestaurant\queue.cpp(235): warning C4018: '<': signed/unsigned mismatch
+c:\users\gabriel kuka\source\repos\myrestaurant\myrestaurant\queue.cpp(200): warning C4018: '<': signed/unsigned mismatch
+  c:\users\gabriel kuka\source\repos\myrestaurant\myrestaurant\queue.cpp(176): note: see reference to function template instantiation 'void Queue::displayItem<Drinks>(std::vector<Drinks *,std::allocator<_Ty>>)' being compiled
+          with
+          [
+              _Ty=Drinks *
+          ]
+  MyRestaurant.vcxproj -> C:\Users\Gabriel Kuka\source\repos\MyRestaurant\Debug\MyRestaurant.exe
